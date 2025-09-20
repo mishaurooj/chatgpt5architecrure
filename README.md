@@ -5,7 +5,7 @@ This repository provides a **visual walkthrough of ChatGPT-5’s architecture**,
 ---
 
 ## 1. System Overview  
-![System Overview](./chatgpt5-architecture-01.png)  
+![System Overview](./Presentation/chatgpt5-architecture-01.png)  
 
 This is the **high-level blueprint** of ChatGPT-5.  
 
@@ -21,7 +21,7 @@ This is the **high-level blueprint** of ChatGPT-5.
 ---
 
 ## 2. Inputs → Normalization → Tokens  
-![Inputs](./chatgpt5-architecture-02.png)  
+![Inputs](./Presentation/chatgpt5-architecture-02.png)  
 
 ChatGPT-5 doesn’t just understand text. It processes **text, images, and audio** inputs.  
 
@@ -36,7 +36,7 @@ ChatGPT-5 doesn’t just understand text. It processes **text, images, and audio
 ---
 
 ## 3. Retrieval-Augmented Generation (RAG)  
-![RAG](./chatgpt5-architecture-03.png)  
+![RAG](./Presentation/chatgpt5-architecture-03.png)  
 
 When the model doesn’t know something, it uses **RAG** to fetch external knowledge.  
 
@@ -51,7 +51,7 @@ This is how the model stays **factual and up-to-date**.
 ---
 
 ## 4. Transformer Core (Conceptual)  
-![Transformer Core](./chatgpt5-architecture-04.png)  
+![Transformer Core](./Presentation/chatgpt5-architecture-04.png)  
 
 At the heart of GPT-5 lies a **transformer stack**.  
 
@@ -67,7 +67,7 @@ At the heart of GPT-5 lies a **transformer stack**.
 ---
 
 ## 5. Tool Use & Function Calling  
-![Tool Use](./chatgpt5-architecture-05.png)  
+![Tool Use](./Presentation/chatgpt5-architecture-05.png)  
 
 GPT-5 can **use external tools** like a developer calling functions.  
 
@@ -80,7 +80,7 @@ GPT-5 can **use external tools** like a developer calling functions.
 ---
 
 ## 6. Memory & Personalization  
-![Memory](./chatgpt5-architecture-06.png)  
+![Memory](./Presentation/chatgpt5-architecture-06.png)  
 
 Unlike older models, GPT-5 has **long-term personalization**.  
 
@@ -93,7 +93,7 @@ Unlike older models, GPT-5 has **long-term personalization**.
 ---
 
 ## 7. Safety & Policy Enforcement  
-![Safety](./chatgpt5-architecture-07.png)  
+![Safety](./Presentation/chatgpt5-architecture-07.png)  
 
 Safety is built into multiple layers:  
 
@@ -106,7 +106,7 @@ Safety is built into multiple layers:
 ---
 
 ## 8. Training (Illustrative)  
-![Training](./chatgpt5-architecture-08.png)  
+![Training](./Presentation/chatgpt5-architecture-08.png)  
 
 Training GPT-5 happens in phases:  
 
@@ -119,7 +119,7 @@ Training GPT-5 happens in phases:
 ---
 
 ## 9. Inference & Scaling  
-![Inference](./chatgpt5-architecture-09.png)  
+![Inference](./Presentation/chatgpt5-architecture-09.png)  
 
 When millions of users query GPT-5 simultaneously, **scaling is key**.  
 
@@ -132,7 +132,7 @@ When millions of users query GPT-5 simultaneously, **scaling is key**.
 ---
 
 ## 10. Quality & Feedback Loop  
-![Quality](./chatgpt5-architecture-10.png)  
+![Quality](./Presentation/chatgpt5-architecture-10.png)  
 
 The system continuously improves via feedback:  
 
