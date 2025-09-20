@@ -2,6 +2,9 @@
 
 This repository provides a **visual walkthrough of ChatGPT-5’s architecture**, broken into different system layers. Each diagram below is followed by a **detailed explanation in human-friendly language**, so students, developers, or AI enthusiasts can understand how everything fits together.  
 
+
+[![IEEE Paper Explained](https://img.youtube.com/vi/rcmCCaByNWk?si=54VbhTa862BlPE0z/0.jpg)](https://youtu.be/rcmCCaByNWk?si=54VbhTa862BlPE0z)
+
 ---
 
 ## 1. System Overview  
@@ -147,4 +150,4 @@ This ensures GPT-5 keeps **getting smarter, safer, and more useful** over time.
 
 ✨ That’s the **complete guided tour of ChatGPT-5’s architecture**!  
 This repo is a mix of **diagrams + explanations** so learners can understand both the **visual flow** and the **underlying concepts**.  
-"""
+
